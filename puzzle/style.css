@@ -96,6 +96,16 @@ body {
 }
 
 
+.body9 {
+    background-image:url("tesoro.jpg");
+    background-size:100%;
+    background-repeat: fixed;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+
 
 body.fh5co-offcanvas {
   overflow: hidden;
