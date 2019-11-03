@@ -57,6 +57,46 @@ body {
     height:100%;
     width:100%;
 }
+
+.body5 {
+    background-image:url("capoeira.gif");
+    background-size:100%;
+    background-repeat: fixed;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+.body6 {
+    background-image:url("afip.gif");
+    background-size:100%;
+    background-repeat: fixed;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+
+.body7 {
+    background-image:url("people.gif");
+    background-size:100%;
+    background-repeat: fixed;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+.body8 {
+    background-image:url("jmu.jpeg");
+    background-size:100%;
+    background-repeat: fixed;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+
+
 body.fh5co-offcanvas {
   overflow: hidden;
 }
